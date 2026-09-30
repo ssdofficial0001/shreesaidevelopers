@@ -1,0 +1,6 @@
+{
+  "name": "Shree Sai Developers",
+  "description": "Shree Sai Developers - Premier Builders & Developers across Mumbai. Explore projects and connect with us for your real-estate requirements.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

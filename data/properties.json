@@ -1,0 +1,86 @@
+[
+  {
+    "id": "shree-sai-apartment",
+    "name": "Shree Sai Apartment",
+    "location": "Evershine, Vasai",
+    "listingType": "Buy / Rent / Heavy Deposit",
+    "description": "Residential development located in Evershine, Vasai. Available for Buy / Rent / Heavy Deposit enquiries directly from the developer.",
+    "coverImage": "/3.png",
+    "images": [
+      {
+        "id": "sai-1",
+        "url": "/3.png",
+        "title": "Main Elevation View",
+        "isCover": true
+      },
+      {
+        "id": "sai-2",
+        "url": "/5.png",
+        "title": "Front Facade & Balconies"
+      },
+      {
+        "id": "sai-3",
+        "url": "/6.png",
+        "title": "Side Architectural Elevation"
+      },
+      {
+        "id": "sai-4",
+        "url": "/7.png",
+        "title": "External View"
+      },
+      {
+        "id": "sai-5",
+        "url": "/8.png",
+        "title": "Surrounding Campus & Approach"
+      },
+      {
+        "id": "sai-6",
+        "url": "/9.png",
+        "title": "Ground Floor & Parking Site"
+      },
+      {
+        "id": "sai-7",
+        "url": "/10.png",
+        "title": "Structural Framing Detail"
+      },
+      {
+        "id": "sai-brochure",
+        "url": "/4.png",
+        "title": "Official Project Brochure"
+      }
+    ],
+    "status": "Available",
+    "featured": true,
+    "published": true,
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "boisar-property",
+    "name": "Boisar Property",
+    "location": "Boisar",
+    "listingType": "Buy / Rent / Heavy Deposit",
+    "description": "Residential development located in Boisar. Available for Buy / Rent / Heavy Deposit enquiries directly from the developer.",
+    "coverImage": "/1.png",
+    "images": [
+      {
+        "id": "boisar-1",
+        "url": "/1.png",
+        "title": "Building Exterior Facade",
+        "isCover": true
+      },
+      {
+        "id": "boisar-2",
+        "url": "/2.png",
+        "title": "Side View & Entrance"
+      }
+    ],
+    "status": "Available",
+    "featured": true,
+    "published": true,
+    "isArchived": false,
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  }
+]
